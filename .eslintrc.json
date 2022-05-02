@@ -45,7 +45,7 @@
           "/^@/utils/",
           "/^@/components|^@/screens/",
           ["parent", "sibling", "index"],
-          "/^@/global/|^@/"
+          "/^@/global/|^@/styles/|^@/"
         ],
         "alphabetize": { "order": "asc", "ignoreCase": true }
       }
