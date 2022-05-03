@@ -40,7 +40,7 @@
         "newlinesBetween": "always",
         "groups": [
           "/^react/",
-          // "/^@react",
+          "/^@react|^@headlessui/",
           "module",
           "/^@/utils/",
           "/^@/components|^@/screens/",
